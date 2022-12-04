@@ -12,15 +12,17 @@ Type | Specification | Status
 Motherboard	| Phoenix BIOS 1KCN51WW | Working
 CPU | Intel(R) Core(TM) i5-6200U CPU @ 2.40GHz | Working
 RAM | 8GB DDR4 2133MHz (2/2 slots populated)| Working
-Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+Ethernet | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Working
 Wi-Fi & Bluetooth | Intel Dual Band Wireless-AC 3160 Plus Bluetooth (not stock) | Working
 GPU | Intel Skylake GT2 HD Graphics 520 | Working
 Audio | Realtek ALC236 | Working
 HDMI | Intel Skylake HDMI | Working
 Keyboard & Touchpad | Synaptics | Working
-Card Reader | Realtek RTS5129 USB 2.0 Card Reader
+Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
 USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
 Battery | Stock | Working
+Speakers | Stock | Working
+3.5mm Headphone Jack | Stock | Not Working
 
 ### Modifications
 
