@@ -30,6 +30,9 @@ Type | Status
 500GB HDD | Working
 Disc Burning | Removed
 
+### Additional Info
+On my Intel Dual Band Wireless-AC 3160 Plus Bluetooth, I get issues with WiFi. To fix this I just manually join the network, specifiy SSID and password, and it connects
+
 ### Used Kexts 
  
 Kext | Info 
