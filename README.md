@@ -3,6 +3,8 @@
 
 EFI folder to run macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 
+### REMEMBER TO USE YOUR OWN SERIAL NUMBER
+
 ## [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
 ### Original Hardware
