@@ -24,7 +24,7 @@ Keyboard & Touchpad | Synaptics | Working
 Card Reader | Realtek RTS5129 USB 2.0 Card Reader | Working
 USB | Sunrise Point-LP USB 3.0 xHCI Controller | Working
 Battery | Stock | Working
-3.5mm Headphone Jack | Stock | Untested
+3.5mm Headphone Jack | Stock | Working
 
 ### Modifications
 
